@@ -1,0 +1,18 @@
+timestamp: 2026-06-24T22:10:45.819787
+command: train_cnn_ds_pid.py --output-dir outputs/fea6+wfs_wav_v2_smoke --waveform-source wfsampling --wfsampling-root /disk_pool1/liuwc/data/cnn+ds/pid/WFS_wav_v2 --manifest-dir outputs/fea6 --gpu 3 --batch-size 16 --pmt-batch-size 200 --smoke-test --smoke-epochs 1
+waveform_source: wfsampling
+waveform_shape: (17612, 92, 2)  (N_PMT, timesteps, channels)
+deepsphere_input_shape: (None, 12288, 12)
+model_output_shape: (None, 3)
+gpu: 3
+class_mapping: {"numu": 0, "nue": 1, "nc": 2}
+feature_order: ['fht', 'npe', 'nperatio4', 'peak', 'peaktime', 'slope4']
+fill_nan: -3.0
+seed: 42
+batch_size: 16
+pmt_batch_size: 200
+shuffle_buffer: 0
+epochs_trained: 1
+test_accuracy: 0.476190
+test_macro_auc: 0.691643
+elapsed: 0h 2m 47s

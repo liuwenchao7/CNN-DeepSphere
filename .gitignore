@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb
+
+# Logs and runtime
+logs/
+*.log
+*.out
+
+# Large training artifacts (metrics/manifests are kept via negation below)
+outputs/**/checkpoint*
+outputs/**/*.data-*
+outputs/**/*.index
+outputs/**/*.npy
+
+# Raw / preprocessed waveform caches (stored on cluster, not in repo)
+*.npy
+*.npz
+
+# Keep small experiment metadata
+!outputs/**/class_mapping.json
+!outputs/**/test_metrics.json
+!outputs/**/manifest_*.json
+!outputs/**/split_meta.json
+!outputs/**/norm_stats.json
+!outputs/**/detail.txt
+!outputs/**/loss_log.txt
+
+# Editor / OS
+.DS_Store
+*.swp

@@ -1,0 +1,28 @@
+timestamp: 2026-06-12T04:19:37.098037
+command: fea/train_fea.py --output-dir outputs/fea6_tune_v1 --gpu 0 --learning-rate 3e-4 --lr-decay 0.997 --batch-size 24 --early-stop-patience 20 --shuffle-buffer 16384 --fill-nan -3.0
+gpu: 0
+class_mapping: {"numu": 0, "nue": 1, "nc": 2}
+feature_order: ['fht', 'npe', 'nperatio4', 'peak', 'peaktime', 'slope4']
+fill_nan: -3.0 (no-hit PMT value after norm)
+seed: 42
+train_events: {0: 11439, 1: 15722, 2: 15435}
+val_events:   {0: 1487, 1: 1964, 2: 1875}
+test_events:  {0: 1443, 1: 1947, 2: 1953}
+batch_size: 24
+learning_rate_init: 0.0003
+lr_decay: 0.997
+early_stop_patience: 20
+shuffle_buffer: 16384
+epochs_trained: 51
+best_val_loss: 0.586132
+best_val_accuracy: 0.753286
+test_accuracy: 0.755194
+test_macro_auc: 0.907240
+test_numu: P=0.7924 R=0.7062 F1=0.7468 N=1443
+test_nue: P=0.7524 R=0.7555 F1=0.7540 N=1947
+test_nc: P=0.7350 R=0.7911 F1=0.7620 N=1953
+elapsed: 2h 53m 1s
+
+KEY FIX vs. previous run:
+  - Per-class equal-weight dataset sampling (no more sequential numu→nue→nc)
+  - fill_nan=-3.0 (distinct from normalised 0)

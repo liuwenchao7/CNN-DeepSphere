@@ -1,0 +1,2810 @@
+[
+  {
+    "class": "numu",
+    "file_id": 2093,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2891,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3075,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2869,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2786,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2582,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2032,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2376,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2686,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2454,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2652,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3338,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2661,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2428,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2467,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2081,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3364,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2847,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3462,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2317,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2902,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2465,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3142,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2742,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2107,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3223,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2917,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2550,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2752,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2106,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2269,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3299,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3392,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3014,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3383,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2039,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2347,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2991,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3297,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2542,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2191,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3181,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2754,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2005,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2456,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2890,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2907,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3213,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3279,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2880,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3224,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2307,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3427,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2739,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3332,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3040,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2673,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3209,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2337,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2283,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2281,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2948,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2360,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3464,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3296,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2065,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3481,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3161,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2422,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2708,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2179,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2551,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2118,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2384,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3094,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2647,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2848,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2688,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2063,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2757,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2981,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3078,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2042,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2168,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2834,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3168,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2319,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2301,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2505,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2561,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2660,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2295,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2636,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3410,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2803,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2939,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2214,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3015,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2573,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3122,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2691,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2323,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3147,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2552,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3391,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3100,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2446,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2856,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2640,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3239,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2291,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2466,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3061,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2545,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2306,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2775,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2641,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3036,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3305,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2034,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2290,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2320,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2341,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2184,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2049,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2103,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2706,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2041,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2278,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2694,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3423,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3212,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2772,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2937,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2451,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2506,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2142,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 2727,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "numu",
+    "file_id": 3006,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3652,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3249,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3790,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4763,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2801,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3640,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4439,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2648,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4894,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4679,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3347,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2876,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4081,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3448,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2574,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3272,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2585,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2518,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2775,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4320,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3283,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3284,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4886,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4079,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4552,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4029,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4542,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2988,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3080,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3532,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2871,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2689,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3736,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4559,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4026,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3689,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3378,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2972,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4757,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4636,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4611,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4527,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4012,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4661,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2500,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3880,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2578,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4581,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2963,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2751,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3490,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4062,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2848,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2601,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4671,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3119,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4445,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3994,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4955,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3104,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2738,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3570,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2745,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2918,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4150,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3699,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4706,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4263,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3688,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3538,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4306,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3525,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3295,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3897,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4094,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3412,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3531,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2862,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2691,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4634,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3638,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4864,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4739,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4667,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2543,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3356,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4252,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3797,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3181,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2840,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3406,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3251,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3589,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3045,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4979,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4365,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3512,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3182,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3241,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3631,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3180,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3322,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4065,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4469,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2514,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3551,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2812,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4570,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3388,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2532,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4663,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3483,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3154,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4438,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2622,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3207,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4963,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4810,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4492,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4470,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4694,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4394,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4433,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4338,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3145,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4664,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2826,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3574,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4182,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4678,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4183,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3334,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4393,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4858,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4658,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4344,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2525,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3216,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4059,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3831,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3196,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2864,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4607,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4601,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2865,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3397,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3230,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4635,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3972,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2782,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3213,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2891,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4931,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4034,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4596,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4360,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4380,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3764,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2671,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3038,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4965,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3158,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3582,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4657,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4487,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4783,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3808,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3355,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3465,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3474,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3785,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3144,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4937,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3669,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4950,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3405,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3683,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 4837,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3416,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 3863,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 934,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1382,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 604,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1367,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 673,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 160,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 762,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 583,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1354,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 485,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 346,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 745,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1370,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1293,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 142,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1216,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 176,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 553,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 848,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 3,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1363,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1021,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 375,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1148,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 252,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 765,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 173,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 67,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1073,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1497,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1190,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 894,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 127,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 22,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 873,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1029,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1356,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 317,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1121,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 578,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 466,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 455,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 774,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1116,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1055,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 60,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 296,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1389,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1303,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 697,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 89,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 845,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 883,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1019,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 974,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 228,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 168,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 581,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 147,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1169,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1333,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 672,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 573,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1105,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 712,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 472,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 532,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1390,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 908,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 436,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 227,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 753,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 433,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1065,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1168,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 151,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 150,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 171,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 19,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 879,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1129,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1039,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 94,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 287,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 628,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 104,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1241,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 361,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 40,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1008,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1364,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1495,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 465,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1357,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 407,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 10,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 400,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 190,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 796,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 324,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 587,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1197,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1119,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1404,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1156,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 488,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 199,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 33,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 601,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 167,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1262,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 907,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1026,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 999,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 751,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 695,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 683,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 295,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 565,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 693,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 183,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 231,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1400,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 303,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 36,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 770,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 121,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 957,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 513,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 111,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 2,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 154,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 973,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 635,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 140,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1473,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1387,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1475,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1292,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 130,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1276,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 323,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 531,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 743,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1479,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1342,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1381,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1012,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 667,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  }
+]

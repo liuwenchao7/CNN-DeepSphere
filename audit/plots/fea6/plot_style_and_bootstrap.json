@@ -1,0 +1,16 @@
+{
+  "score_colors": {
+    "numu": "#FF4C4C",
+    "nue": "#4CA64C",
+    "nc": "#4C4CFF"
+  },
+  "score_histtype": "step",
+  "score_y_scale": "log",
+  "bootstrap": {
+    "n_boot": 200,
+    "seed": 42,
+    "sampling": "stratified_with_replacement_per_class",
+    "errorbar_vertical": "bootstrap std (ddof=1)",
+    "errorbar_horizontal": "energy bin half width"
+  }
+}

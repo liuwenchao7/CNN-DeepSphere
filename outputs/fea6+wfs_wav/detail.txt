@@ -1,0 +1,17 @@
+timestamp: 2026-06-21T10:53:09.286659
+command: train_cnn_ds_pid.py --output-dir outputs/fea6+wfsampling --waveform-source wfsampling --manifest-dir outputs/fea6 --gpu 0 --batch-size 16 --pmt-batch-size 200
+waveform_source: wfsampling
+waveform_shape: (17612, 61, 2)  (N_PMT, timesteps, channels)
+deepsphere_input_shape: (None, 12288, 12)
+model_output_shape: (None, 3)
+gpu: 0
+class_mapping: {"numu": 0, "nue": 1, "nc": 2}
+feature_order: ['fht', 'npe', 'nperatio4', 'peak', 'peaktime', 'slope4']
+fill_nan: -3.0
+seed: 42
+batch_size: 16
+pmt_batch_size: 200
+epochs_trained: 47
+test_accuracy: 0.758762
+test_macro_auc: 0.914812
+elapsed: 140h 9m 58s

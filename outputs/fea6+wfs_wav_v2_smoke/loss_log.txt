@@ -1,0 +1,1 @@
+Epoch 1: loss=1.2273  acc=0.4074  val_loss=1.0776  val_acc=0.4444

@@ -1,0 +1,14 @@
+[
+  {
+    "model": "fea6",
+    "dir": "outputs/fea6",
+    "status": "score-only (visE unavailable or size mismatch)",
+    "n_test": 5343
+  },
+  {
+    "model": "fea6+wfs_wav",
+    "dir": "outputs/fea6+wfs_wav",
+    "status": "score-only (visE unavailable or size mismatch)",
+    "n_test": 4137
+  }
+]

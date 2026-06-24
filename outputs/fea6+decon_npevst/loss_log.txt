@@ -1,0 +1,3 @@
+Epoch 1: loss=0.7407  acc=0.6785  val_loss=0.8715  val_acc=0.5925
+Epoch 2: loss=0.6845  acc=0.7059  val_loss=0.7921  val_acc=0.6420
+Epoch 3: loss=0.6678  acc=0.7146  val_loss=0.8513  val_acc=0.5990

@@ -1,0 +1,20 @@
+[
+  {
+    "class": "numu",
+    "file_id": 2002,
+    "label": 0,
+    "root": "/disk_pool1/weijsh/waveform/npy"
+  },
+  {
+    "class": "nue",
+    "file_id": 2500,
+    "label": 1,
+    "root": "/disk_pool1/liuxy/nu_e/npy"
+  },
+  {
+    "class": "nc",
+    "file_id": 1,
+    "label": 2,
+    "root": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  }
+]

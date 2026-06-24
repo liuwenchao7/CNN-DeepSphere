@@ -1,0 +1,33 @@
+PID Data Audit — 2026-06-11T00:23:00.830498
+============================================================
+Total aligned events (numu+nue+nc): 53265
+
+[numu] label=0 root=/disk_pool1/weijsh/waveform/npy
+  valid files: 1392
+  valid events: 14369
+  dropped events: 0
+  quality: {'nan_events': 5253, 'inf_events': 0, 'zero_pmt_events': 0}
+  det_fea: count=1393 ids=[0,3499]
+  elec_fea: count=9758 ids=[2000,3499]
+  waveform: count=3840 ids=[2000,3499]
+  y: count=1393 ids=[2000,3499]
+
+[nue] label=1 root=/disk_pool1/liuxy/nu_e/npy
+  valid files: 1793
+  valid events: 19633
+  dropped events: 0
+  quality: {'nan_events': 4908, 'inf_events': 0, 'zero_pmt_events': 0}
+  det_fea: count=1801 ids=[2500,5000]
+  elec_fea: count=12558 ids=[2500,5000]
+  waveform: count=5302 ids=[2500,5000]
+  y: count=1795 ids=[2500,5000]
+
+[nc] label=2 root=/disk_pool1/liuxk/Muon/J24/nc/npy
+  valid files: 1485
+  valid events: 19263
+  dropped events: 0
+  quality: {'nan_events': 8276, 'inf_events': 0, 'zero_pmt_events': 0}
+  det_fea: count=1513 ids=[0,2514]
+  elec_fea: count=10451 ids=[0,1499]
+  waveform: count=4406 ids=[0,2514]
+  y: count=1491 ids=[0,1499]

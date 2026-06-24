@@ -1,0 +1,1802 @@
+{
+  "timestamp": "2026-06-11T00:23:00.830498",
+  "class_roots": {
+    "numu": "/disk_pool1/weijsh/waveform/npy",
+    "nue": "/disk_pool1/liuxy/nu_e/npy",
+    "nc": "/disk_pool1/liuxk/Muon/J24/nc/npy"
+  },
+  "class_label": {
+    "numu": 0,
+    "nue": 1,
+    "nc": 2
+  },
+  "feature_names": [
+    "fht",
+    "npe",
+    "nperatio4",
+    "peak",
+    "peaktime",
+    "slope4"
+  ],
+  "classes": {
+    "numu": {
+      "class": "numu",
+      "label": 0,
+      "root": "/disk_pool1/weijsh/waveform/npy",
+      "root_exists": true,
+      "note": null,
+      "det_fea": {
+        "path": "/disk_pool1/weijsh/waveform/npy/det_fea",
+        "exists": true,
+        "files": [],
+        "count": 1393,
+        "extensions": {
+          ".npz": 1393
+        },
+        "id_min": 0,
+        "id_max": 3499,
+        "id_count_unique": 1393,
+        "samples": [
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/det_fea/time_npe_0.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                9
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                38834
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                38833
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                62511
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                62511
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/det_fea/time_npe_2715.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                9
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                9
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                9
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                10
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                49785
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                49784
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                74586
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                74586
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/det_fea/time_npe_3499.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                8
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                9
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                45511
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                45510
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                71504
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                71504
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          }
+        ]
+      },
+      "elec_fea": {
+        "path": "/disk_pool1/weijsh/waveform/npy/elec_fea",
+        "exists": true,
+        "files": [],
+        "count": 9758,
+        "extensions": {
+          ".npy": 9758
+        },
+        "id_min": 2000,
+        "id_max": 3499,
+        "id_count_unique": 1394,
+        "samples": [
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/elec_fea/x_fht_pmt_2000.npy",
+            "shape": [
+              16,
+              17612
+            ],
+            "dtype": "int64"
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/elec_fea/x_peak_pmt_2715.npy",
+            "shape": [
+              9,
+              17612
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/elec_fea/y_pmt_3499.npy",
+            "shape": [
+              8,
+              15
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "waveform": {
+        "path": "/disk_pool1/weijsh/waveform/npy/waveform",
+        "exists": true,
+        "files": [],
+        "count": 3840,
+        "extensions": {
+          ".npy": 1393,
+          ".npz": 2447
+        },
+        "id_min": 2000,
+        "id_max": 3499,
+        "id_count_unique": 1395,
+        "samples": [
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/waveform/decon_npevst_2000.npy",
+            "shape": [
+              16
+            ],
+            "dtype": "object",
+            "object_element": "<class 'numpy.ndarray'>"
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/waveform/decon_waveform_2588.npz",
+            "keys": [
+              "eventID",
+              "event_offsets",
+              "copyNo",
+              "gain",
+              "isLowRange",
+              "waveform_offsets",
+              "waveform",
+              "n_events",
+              "total_pmt",
+              "total_samples"
+            ],
+            "eventID": {
+              "shape": [
+                12
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                13
+              ],
+              "dtype": "int64"
+            },
+            "copyNo": {
+              "shape": [
+                211344
+              ],
+              "dtype": "uint16"
+            },
+            "gain": {
+              "shape": [
+                211344
+              ],
+              "dtype": "uint8"
+            },
+            "isLowRange": {
+              "shape": [
+                211344
+              ],
+              "dtype": "bool"
+            },
+            "waveform_offsets": {
+              "shape": [
+                211345
+              ],
+              "dtype": "int64"
+            },
+            "waveform": {
+              "shape": [
+                213034752
+              ],
+              "dtype": "uint16"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "total_pmt": {
+              "shape": [],
+              "dtype": "int64"
+            },
+            "total_samples": {
+              "shape": [],
+              "dtype": "int64"
+            }
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/waveform/waveform_3221.npz",
+            "error": "File is not a zip file"
+          }
+        ]
+      },
+      "y": {
+        "path": "/disk_pool1/weijsh/waveform/npy/y",
+        "exists": true,
+        "files": [],
+        "count": 1393,
+        "extensions": {
+          ".npy": 1393
+        },
+        "id_min": 2000,
+        "id_max": 3499,
+        "id_count_unique": 1393,
+        "samples": [
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/y/y_2000.npy",
+            "shape": [
+              16,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/y/y_2715.npy",
+            "shape": [
+              9,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/weijsh/waveform/npy/y/y_3499.npy",
+            "shape": [
+              8,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "valid_files": 1392,
+      "valid_events": 14369,
+      "dropped_events": 0,
+      "drop_reasons": {},
+      "elec_fea_consistency": {
+        "checked_file_ids": [
+          2000,
+          2715,
+          3499
+        ],
+        "issues": []
+      },
+      "y_alignment_samples": [
+        {
+          "file_id": 2000,
+          "n_y": 16,
+          "n_y_pmt": 16,
+          "y_cols": 17,
+          "pid_unique": [
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2001,
+          "n_y": 16,
+          "n_y_pmt": 16,
+          "y_cols": 17,
+          "pid_unique": [
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2002,
+          "n_y": 9,
+          "n_y_pmt": 9,
+          "y_cols": 17,
+          "pid_unique": [
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2003,
+          "n_y": 7,
+          "n_y_pmt": 7,
+          "y_cols": 17,
+          "pid_unique": [
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2004,
+          "n_y": 11,
+          "n_y_pmt": 11,
+          "y_cols": 17,
+          "pid_unique": [
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        }
+      ],
+      "quality": {
+        "nan_events": 5253,
+        "inf_events": 0,
+        "zero_pmt_events": 0
+      },
+      "waveform_example": {
+        "waveform": "/disk_pool1/weijsh/waveform/npy/waveform/waveform_2000.npz",
+        "decon_waveform": "/disk_pool1/weijsh/waveform/npy/waveform/decon_waveform_2000.npz",
+        "decon_npevst": "/disk_pool1/weijsh/waveform/npy/waveform/decon_npevst_2000.npy"
+      },
+      "waveform_npz_schema": {
+        "path": "/disk_pool1/weijsh/waveform/npy/waveform/waveform_2000.npz",
+        "keys": [
+          "event_offsets",
+          "copyNo",
+          "gain",
+          "waveform",
+          "n_samples",
+          "n_events"
+        ],
+        "event_offsets": {
+          "shape": [
+            17
+          ],
+          "dtype": "int64"
+        },
+        "copyNo": {
+          "shape": [
+            281792
+          ],
+          "dtype": "uint16"
+        },
+        "gain": {
+          "shape": [
+            281792
+          ],
+          "dtype": "uint8"
+        },
+        "waveform": {
+          "shape": [
+            281792,
+            1008
+          ],
+          "dtype": "uint16"
+        },
+        "n_samples": {
+          "shape": [],
+          "dtype": "int32"
+        },
+        "n_events": {
+          "shape": [],
+          "dtype": "int32"
+        }
+      }
+    },
+    "nue": {
+      "class": "nue",
+      "label": 1,
+      "root": "/disk_pool1/liuxy/nu_e/npy",
+      "root_exists": true,
+      "note": null,
+      "det_fea": {
+        "path": "/disk_pool1/liuxy/nu_e/npy/det_fea",
+        "exists": true,
+        "files": [],
+        "count": 1801,
+        "extensions": {
+          ".py": 1,
+          ".npz": 1800
+        },
+        "id_min": 2500,
+        "id_max": 5000,
+        "id_count_unique": 1800,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/det_fea/time_npe_2500.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                10
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                10
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                10
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                11
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                51860
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                51859
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                88544
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                88544
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/det_fea/time_npe_3688.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                12
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                12
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                12
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                13
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                59042
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                59041
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                93936
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                93936
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/det_fea/time_npe_5000.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                14
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                72262
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                72261
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                105462
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                105462
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          }
+        ]
+      },
+      "elec_fea": {
+        "path": "/disk_pool1/liuxy/nu_e/npy/elec_fea",
+        "exists": true,
+        "files": [],
+        "count": 12558,
+        "extensions": {
+          ".npy": 12558
+        },
+        "id_min": 2500,
+        "id_max": 5000,
+        "id_count_unique": 1794,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/elec_fea/x_fht_pmt_2500.npy",
+            "shape": [
+              10,
+              17612
+            ],
+            "dtype": "int64"
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/elec_fea/x_peak_pmt_3684.npy",
+            "shape": [
+              10,
+              17612
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/elec_fea/y_pmt_5000.npy",
+            "shape": [
+              13,
+              15
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "waveform": {
+        "path": "/disk_pool1/liuxy/nu_e/npy/waveform",
+        "exists": true,
+        "files": [],
+        "count": 5302,
+        "extensions": {
+          ".npy": 1795,
+          ".npz": 3507
+        },
+        "id_min": 2500,
+        "id_max": 5000,
+        "id_count_unique": 1802,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/waveform/decon_npevst_2500.npy",
+            "shape": [
+              10
+            ],
+            "dtype": "object",
+            "object_element": "<class 'numpy.ndarray'>"
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/waveform/decon_waveform_3697.npz",
+            "keys": [
+              "eventID",
+              "event_offsets",
+              "copyNo",
+              "gain",
+              "isLowRange",
+              "waveform_offsets",
+              "waveform",
+              "n_events",
+              "total_pmt",
+              "total_samples"
+            ],
+            "eventID": {
+              "shape": [
+                12
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                13
+              ],
+              "dtype": "int64"
+            },
+            "copyNo": {
+              "shape": [
+                211344
+              ],
+              "dtype": "uint16"
+            },
+            "gain": {
+              "shape": [
+                211344
+              ],
+              "dtype": "uint8"
+            },
+            "isLowRange": {
+              "shape": [
+                211344
+              ],
+              "dtype": "bool"
+            },
+            "waveform_offsets": {
+              "shape": [
+                211345
+              ],
+              "dtype": "int64"
+            },
+            "waveform": {
+              "shape": [
+                213034752
+              ],
+              "dtype": "uint16"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "total_pmt": {
+              "shape": [],
+              "dtype": "int64"
+            },
+            "total_samples": {
+              "shape": [],
+              "dtype": "int64"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/waveform/waveform_5000.npz",
+            "keys": [
+              "event_offsets",
+              "copyNo",
+              "gain",
+              "waveform",
+              "n_samples",
+              "n_events"
+            ],
+            "event_offsets": {
+              "shape": [
+                14
+              ],
+              "dtype": "int64"
+            },
+            "copyNo": {
+              "shape": [
+                228956
+              ],
+              "dtype": "uint16"
+            },
+            "gain": {
+              "shape": [
+                228956
+              ],
+              "dtype": "uint8"
+            },
+            "waveform": {
+              "shape": [
+                228956,
+                1008
+              ],
+              "dtype": "uint16"
+            },
+            "n_samples": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          }
+        ]
+      },
+      "y": {
+        "path": "/disk_pool1/liuxy/nu_e/npy/y",
+        "exists": true,
+        "files": [],
+        "count": 1795,
+        "extensions": {
+          ".npy": 1795
+        },
+        "id_min": 2500,
+        "id_max": 5000,
+        "id_count_unique": 1795,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/y/y_2500.npy",
+            "shape": [
+              10,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/y/y_3683.npy",
+            "shape": [
+              10,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxy/nu_e/npy/y/y_5000.npy",
+            "shape": [
+              13,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "valid_files": 1793,
+      "valid_events": 19633,
+      "dropped_events": 0,
+      "drop_reasons": {},
+      "elec_fea_consistency": {
+        "checked_file_ids": [
+          2500,
+          3684,
+          5000
+        ],
+        "issues": []
+      },
+      "y_alignment_samples": [
+        {
+          "file_id": 2500,
+          "n_y": 10,
+          "n_y_pmt": 10,
+          "y_cols": 17,
+          "pid_unique": [
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2501,
+          "n_y": 12,
+          "n_y_pmt": 12,
+          "y_cols": 17,
+          "pid_unique": [
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2502,
+          "n_y": 10,
+          "n_y_pmt": 10,
+          "y_cols": 17,
+          "pid_unique": [
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2503,
+          "n_y": 11,
+          "n_y_pmt": 11,
+          "y_cols": 17,
+          "pid_unique": [
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2504,
+          "n_y": 13,
+          "n_y_pmt": 13,
+          "y_cols": 17,
+          "pid_unique": [
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        }
+      ],
+      "quality": {
+        "nan_events": 4908,
+        "inf_events": 0,
+        "zero_pmt_events": 0
+      },
+      "waveform_example": {
+        "waveform": "/disk_pool1/liuxy/nu_e/npy/waveform/waveform_2500.npz",
+        "decon_waveform": "/disk_pool1/liuxy/nu_e/npy/waveform/decon_waveform_2500.npz",
+        "decon_npevst": "/disk_pool1/liuxy/nu_e/npy/waveform/decon_npevst_2500.npy"
+      },
+      "waveform_npz_schema": {
+        "path": "/disk_pool1/liuxy/nu_e/npy/waveform/waveform_2500.npz",
+        "keys": [
+          "event_offsets",
+          "copyNo",
+          "gain",
+          "waveform",
+          "n_samples",
+          "n_events"
+        ],
+        "event_offsets": {
+          "shape": [
+            11
+          ],
+          "dtype": "int64"
+        },
+        "copyNo": {
+          "shape": [
+            176120
+          ],
+          "dtype": "uint16"
+        },
+        "gain": {
+          "shape": [
+            176120
+          ],
+          "dtype": "uint8"
+        },
+        "waveform": {
+          "shape": [
+            176120,
+            1008
+          ],
+          "dtype": "uint16"
+        },
+        "n_samples": {
+          "shape": [],
+          "dtype": "int32"
+        },
+        "n_events": {
+          "shape": [],
+          "dtype": "int32"
+        }
+      }
+    },
+    "nc": {
+      "class": "nc",
+      "label": 2,
+      "root": "/disk_pool1/liuxk/Muon/J24/nc/npy",
+      "root_exists": true,
+      "note": null,
+      "det_fea": {
+        "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/det_fea",
+        "exists": true,
+        "files": [],
+        "count": 1513,
+        "extensions": {
+          ".npz": 1513
+        },
+        "id_min": 0,
+        "id_max": 2514,
+        "id_count_unique": 1513,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/det_fea/time_npe_0.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                14
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                14
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                14
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                15
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                70738
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                70737
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                112709
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                112709
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/det_fea/time_npe_316.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                14
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                73717
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                73716
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                115695
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                115695
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/det_fea/time_npe_999.npz",
+            "keys": [
+              "elecEntry",
+              "detEntry",
+              "simEventID",
+              "event_offsets",
+              "pmt_offsets",
+              "pmtID",
+              "time",
+              "npe",
+              "max_time",
+              "n_events",
+              "n_pmts_total"
+            ],
+            "elecEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "detEntry": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "simEventID": {
+              "shape": [
+                13
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                14
+              ],
+              "dtype": "int64"
+            },
+            "pmt_offsets": {
+              "shape": [
+                64118
+              ],
+              "dtype": "int64"
+            },
+            "pmtID": {
+              "shape": [
+                64117
+              ],
+              "dtype": "int32"
+            },
+            "time": {
+              "shape": [
+                107353
+              ],
+              "dtype": "float32"
+            },
+            "npe": {
+              "shape": [
+                107353
+              ],
+              "dtype": "float32"
+            },
+            "max_time": {
+              "shape": [],
+              "dtype": "float32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_pmts_total": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          }
+        ]
+      },
+      "elec_fea": {
+        "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/elec_fea",
+        "exists": true,
+        "files": [],
+        "count": 10451,
+        "extensions": {
+          ".npy": 10451
+        },
+        "id_min": 0,
+        "id_max": 1499,
+        "id_count_unique": 1493,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/elec_fea/x_fht_pmt_0.npy",
+            "shape": [
+              14,
+              17612
+            ],
+            "dtype": "int64"
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/elec_fea/x_peak_pmt_32.npy",
+            "shape": [
+              11,
+              17612
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/elec_fea/y_pmt_999.npy",
+            "shape": [
+              13,
+              15
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "waveform": {
+        "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform",
+        "exists": true,
+        "files": [],
+        "count": 4406,
+        "extensions": {
+          ".npy": 1487,
+          ".npz": 2919
+        },
+        "id_min": 0,
+        "id_max": 2514,
+        "id_count_unique": 1512,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/decon_npevst_0.npy",
+            "error": "pickle data was truncated"
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/decon_waveform_319.npz",
+            "keys": [
+              "eventID",
+              "event_offsets",
+              "copyNo",
+              "gain",
+              "isLowRange",
+              "waveform_offsets",
+              "waveform",
+              "n_events",
+              "total_pmt",
+              "total_samples"
+            ],
+            "eventID": {
+              "shape": [
+                15
+              ],
+              "dtype": "int32"
+            },
+            "event_offsets": {
+              "shape": [
+                16
+              ],
+              "dtype": "int64"
+            },
+            "copyNo": {
+              "shape": [
+                261030
+              ],
+              "dtype": "uint16"
+            },
+            "gain": {
+              "shape": [
+                261030
+              ],
+              "dtype": "uint8"
+            },
+            "isLowRange": {
+              "shape": [
+                261030
+              ],
+              "dtype": "bool"
+            },
+            "waveform_offsets": {
+              "shape": [
+                261031
+              ],
+              "dtype": "int64"
+            },
+            "waveform": {
+              "shape": [
+                263118240
+              ],
+              "dtype": "uint16"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "total_pmt": {
+              "shape": [],
+              "dtype": "int64"
+            },
+            "total_samples": {
+              "shape": [],
+              "dtype": "int64"
+            }
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/waveform_999.npz",
+            "keys": [
+              "event_offsets",
+              "copyNo",
+              "gain",
+              "waveform",
+              "n_samples",
+              "n_events"
+            ],
+            "event_offsets": {
+              "shape": [
+                14
+              ],
+              "dtype": "int64"
+            },
+            "copyNo": {
+              "shape": [
+                223831
+              ],
+              "dtype": "uint16"
+            },
+            "gain": {
+              "shape": [
+                223831
+              ],
+              "dtype": "uint8"
+            },
+            "waveform": {
+              "shape": [
+                223831,
+                1008
+              ],
+              "dtype": "uint16"
+            },
+            "n_samples": {
+              "shape": [],
+              "dtype": "int32"
+            },
+            "n_events": {
+              "shape": [],
+              "dtype": "int32"
+            }
+          }
+        ]
+      },
+      "y": {
+        "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/y",
+        "exists": true,
+        "files": [],
+        "count": 1491,
+        "extensions": {
+          ".npy": 1491
+        },
+        "id_min": 0,
+        "id_max": 1499,
+        "id_count_unique": 1491,
+        "samples": [
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/y/y_0.npy",
+            "shape": [
+              14,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/y/y_322.npy",
+            "shape": [
+              14,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          },
+          {
+            "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/y/y_999.npy",
+            "shape": [
+              13,
+              17
+            ],
+            "dtype": "float64",
+            "has_nan": false,
+            "has_inf": false
+          }
+        ]
+      },
+      "valid_files": 1485,
+      "valid_events": 19263,
+      "dropped_events": 0,
+      "drop_reasons": {},
+      "elec_fea_consistency": {
+        "checked_file_ids": [
+          0,
+          746,
+          1499
+        ],
+        "issues": []
+      },
+      "y_alignment_samples": [
+        {
+          "file_id": 0,
+          "n_y": 14,
+          "n_y_pmt": 14,
+          "y_cols": 17,
+          "pid_unique": [
+            -14,
+            -12,
+            12,
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 1,
+          "n_y": 14,
+          "n_y_pmt": 14,
+          "y_cols": 17,
+          "pid_unique": [
+            -14,
+            -12,
+            12,
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 2,
+          "n_y": 10,
+          "n_y_pmt": 10,
+          "y_cols": 17,
+          "pid_unique": [
+            -14,
+            -12,
+            12
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 3,
+          "n_y": 10,
+          "n_y_pmt": 10,
+          "y_cols": 17,
+          "pid_unique": [
+            -14,
+            -12,
+            12,
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        },
+        {
+          "file_id": 4,
+          "n_y": 12,
+          "n_y_pmt": 12,
+          "y_cols": 17,
+          "pid_unique": [
+            -14,
+            -12,
+            12,
+            14
+          ],
+          "y_pmt_cols": 15,
+          "evt_match": true,
+          "theta_match": true
+        }
+      ],
+      "file_errors": [
+        {
+          "file_id": 90,
+          "error": "No data left in file"
+        },
+        {
+          "file_id": 123,
+          "error": "No data left in file"
+        }
+      ],
+      "quality": {
+        "nan_events": 8276,
+        "inf_events": 0,
+        "zero_pmt_events": 0
+      },
+      "waveform_example": {
+        "waveform": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/waveform_0.npz",
+        "decon_waveform": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/decon_waveform_0.npz",
+        "decon_npevst": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/decon_npevst_0.npy"
+      },
+      "waveform_npz_schema": {
+        "path": "/disk_pool1/liuxk/Muon/J24/nc/npy/waveform/waveform_0.npz",
+        "keys": [
+          "event_offsets",
+          "copyNo",
+          "gain",
+          "waveform",
+          "n_samples",
+          "n_events"
+        ],
+        "event_offsets": {
+          "shape": [
+            15
+          ],
+          "dtype": "int64"
+        },
+        "copyNo": {
+          "shape": [
+            245280
+          ],
+          "dtype": "uint16"
+        },
+        "gain": {
+          "shape": [
+            245280
+          ],
+          "dtype": "uint8"
+        },
+        "waveform": {
+          "shape": [
+            245280,
+            1008
+          ],
+          "dtype": "uint16"
+        },
+        "n_samples": {
+          "shape": [],
+          "dtype": "int32"
+        },
+        "n_events": {
+          "shape": [],
+          "dtype": "int32"
+        }
+      }
+    }
+  },
+  "total_valid_events": 53265
+}
