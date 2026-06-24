@@ -31,3 +31,6 @@ outputs/**/*.npy
 # Editor / OS
 .DS_Store
 *.swp
+
+# Local git bundle (for manual upload)
+*.bundle

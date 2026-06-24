@@ -1,5 +1,6 @@
 # JUNO 大气中微子三分类 PID 项目
 
+> **GitHub:** https://github.com/liuwenchao7/CNN-DeepSphere  
 > English tutorial-style documentation: see [`readme.md`](readme.md) (format参考 [CNN-PointNet](https://github.com/mrheng9/CNN-PointNet)).
 
 本仓库基于 DeepSphere 和 CNN+DeepSphere，对 JUNO 大气中微子事例进行粒子鉴别（PID），完成 `numu / nue / nc` 三分类任务。
