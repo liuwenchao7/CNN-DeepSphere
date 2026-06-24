@@ -1,5 +1,7 @@
 # JUNO 大气中微子三分类 PID 项目
 
+> English tutorial-style documentation: see [`readme.md`](readme.md) (format参考 [CNN-PointNet](https://github.com/mrheng9/CNN-PointNet)).
+
 本仓库基于 DeepSphere 和 CNN+DeepSphere，对 JUNO 大气中微子事例进行粒子鉴别（PID），完成 `numu / nue / nc` 三分类任务。
 
 参考论文：*Neutrino type identification for atmospheric neutrinos in a large homogeneous liquid scintillation detector*（arXiv:2503.21353）
@@ -186,4 +188,3 @@ nohup env CUDA_VISIBLE_DEVICES=0 python3 fea/train_fea.py \
 4. **conda 环境**：训练使用 `deepsphere`（Python 3.6 + TF 2.6.2 + deepsphere）。
 
 5. **GPU 选择**：`train_cnn_ds_pid.py` 通过 `--gpu N` 指定物理 GPU。CNN+DeepSphere 默认 `--shuffle-buffer 0`（每 epoch 打乱 event index，避免 decon_npevst 等大 buffer 预取极慢）。当前运行任务见 `logs/pid`。
-
