@@ -366,7 +366,7 @@ def main():
                         help="Pulse threshold; default 15 (waveform) or 1 (decon_waveform)")
     parser.add_argument("--thr-fht", type=float, default=0.2,
                         help="FHT gate: fraction of peak if <1, else absolute ADC")
-    parser.add_argument("--h-thr", type=float, default=50.0)
+    parser.add_argument("--h-thr", type=float, default=0.5)
     parser.add_argument("--w-thr", type=int, default=15)
     parser.add_argument("--rise-step", type=int, default=2)
     args = parser.parse_args()
