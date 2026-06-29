@@ -12,6 +12,7 @@ Usage:
 """
 
 import argparse
+import datetime
 import glob
 import json
 import os
@@ -39,6 +40,15 @@ def default_output_root(waveform_kind):
 
 def default_global_thr(waveform_kind):
     return 1.0 if waveform_kind == "decon_waveform" else 15.0
+
+
+def default_h_thr(waveform_kind):
+    """Height threshold for key-point confirmation.
+
+    decon_waveform AC values are scaled by /100 relative to raw ADC, so the
+    threshold must be proportionally smaller (0.5 vs 50).
+    """
+    return 0.5 if waveform_kind == "decon_waveform" else 50.0
 
 
 def get_baseline_and_ac(adc, bl_len=100, thr_flat=15.0):
@@ -366,18 +376,20 @@ def main():
                         help="Pulse threshold; default 15 (waveform) or 1 (decon_waveform)")
     parser.add_argument("--thr-fht", type=float, default=0.2,
                         help="FHT gate: fraction of peak if <1, else absolute ADC")
-    parser.add_argument("--h-thr", type=float, default=0.5)
+    parser.add_argument("--h-thr", type=float, default=None,
+                        help="Peak height threshold; default 50 (waveform) or 0.5 (decon_waveform)")
     parser.add_argument("--w-thr", type=int, default=15)
     parser.add_argument("--rise-step", type=int, default=2)
     args = parser.parse_args()
 
     global_thr = args.global_thr if args.global_thr is not None else default_global_thr(args.waveform_kind)
+    h_thr = args.h_thr if args.h_thr is not None else default_h_thr(args.waveform_kind)
     params = {
         "bl_len": args.bl_len,
         "thr_flat": args.thr_flat,
         "global_thr": global_thr,
         "thr_fht": args.thr_fht,
-        "h_thr": args.h_thr,
+        "h_thr": h_thr,
         "w_thr": args.w_thr,
         "rise_step": args.rise_step,
         "wfs_version": 2,
@@ -400,12 +412,9 @@ def main():
 
     out_dir = os.path.join(output_root, args.cls_name)
     os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "sampling_params.json"), "w") as f:
-        json.dump({"class": args.cls_name, "waveform_kind": args.waveform_kind,
-                   "n_files": len(file_ids), **params}, f, indent=2)
 
     print(f"[WFSampling_v2] {len(file_ids)} {args.waveform_kind} files "
-          f"class={args.cls_name} -> {out_dir}")
+          f"class={args.cls_name} h_thr={h_thr} global_thr={global_thr} -> {out_dir}")
 
     results = {}
     with ProcessPoolExecutor(max_workers=args.workers) as pool:
@@ -419,6 +428,18 @@ def main():
             results[status] = results.get(status, 0) + 1
             if status in ("error", "missing"):
                 print(f"  [{status}] fid={futs[fut]}  {msg}")
+
+    summary = {
+        "class": args.cls_name,
+        "waveform_kind": args.waveform_kind,
+        "n_files": len(file_ids),
+        **params,
+        "results": results,
+        "n_files_processed": results.get("ok", 0) + results.get("skipped", 0),
+        "completed_at": datetime.datetime.now().isoformat(timespec="seconds"),
+    }
+    with open(os.path.join(out_dir, "sampling_params.json"), "w") as f:
+        json.dump(summary, f, indent=2)
 
     print("Summary:", results)
 
